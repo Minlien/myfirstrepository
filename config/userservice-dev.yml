@@ -4,8 +4,8 @@ sp:
 
 
 spring:
-  application:
-    name: user-service
+   application:
+     name: user-service
     
 server:  port: 8101
   
